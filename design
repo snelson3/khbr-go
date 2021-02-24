@@ -1,0 +1,9 @@
+loop ard folder
+loop b_ex files 
+replace objects with id's/param that match one of the sources with the new id/param
+for all bosses, swap the msn files but set the rewards to the original rewards (to be compatible with GOA)
+adjust the spawn limiters 
+scale bosses hp / level appropriately
+
+load a file into memory
+if it gets modified, copy it to new location

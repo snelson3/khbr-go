@@ -1,0 +1,7 @@
+{
+    "game": "kh2",
+    "enemyswaps": {
+        "Pete Past": {"name": "Luxord", "hp": "scaled", "param": 0},
+        "Shadow": {"name": "Dancer", "hp": "scaled", "param": 0}
+    }
+}
